@@ -1,0 +1,82 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,160,"NZL","New Zealand",1,"Auckland",1,"Auckland","City","City",NA,NA
+2,160,"NZL","New Zealand",1,"Auckland",2,"Franklin","District","District",NA,NA
+3,160,"NZL","New Zealand",1,"Auckland",3,"Manukau","City","City",NA,NA
+4,160,"NZL","New Zealand",1,"Auckland",4,"Rodney","District","District",NA,NA
+5,160,"NZL","New Zealand",1,"Auckland",5,"Waitakere","City","City",NA,NA
+6,160,"NZL","New Zealand",2,"Bay of Plenty",6,"Opotiki","District","District",NA,NA
+7,160,"NZL","New Zealand",2,"Bay of Plenty",7,"Rotorua","District","District",NA,NA
+8,160,"NZL","New Zealand",2,"Bay of Plenty",8,"Taupo","District","District",NA,NA
+9,160,"NZL","New Zealand",2,"Bay of Plenty",9,"Western Bay of Plenty","District","District",NA,NA
+10,160,"NZL","New Zealand",2,"Bay of Plenty",10,"Whakatane","District","District",NA,NA
+11,160,"NZL","New Zealand",3,"Canterbury",11,"Ashburton","District","District",NA,NA
+12,160,"NZL","New Zealand",3,"Canterbury",12,"Bounty Islands","Unknown ","Unknown",NA,NA
+13,160,"NZL","New Zealand",3,"Canterbury",13,"Christchurch","City","City",NA,NA
+14,160,"NZL","New Zealand",3,"Canterbury",14,"Hurunui","District","District",NA,NA
+15,160,"NZL","New Zealand",3,"Canterbury",15,"Kaikoura","District","District",NA,NA
+16,160,"NZL","New Zealand",3,"Canterbury",16,"Mackenzie","District","District",NA,NA
+17,160,"NZL","New Zealand",3,"Canterbury",17,"Selwyn","District","District",NA,NA
+18,160,"NZL","New Zealand",3,"Canterbury",18,"Timaru","District","District",NA,NA
+19,160,"NZL","New Zealand",3,"Canterbury",19,"Waimakariri","District","District",NA,NA
+20,160,"NZL","New Zealand",3,"Canterbury",20,"Waimate","District","District",NA,NA
+21,160,"NZL","New Zealand",3,"Canterbury",21,"Waitaki","District","District",NA,NA
+22,160,"NZL","New Zealand",4,"Chatham Islands",22,"Waitangi","Territory","Territory",NA,NA
+23,160,"NZL","New Zealand",5,"Gisborne",23,"Gisborne","District","District",NA,NA
+24,160,"NZL","New Zealand",5,"Gisborne",24,"Otorohanga","District","District",NA,NA
+25,160,"NZL","New Zealand",6,"Hawke's Bay",25,"Central Hawke's Bay","District","District",NA,NA
+26,160,"NZL","New Zealand",6,"Hawke's Bay",26,"Hastings city","City","City",NA,NA
+27,160,"NZL","New Zealand",6,"Hawke's Bay",27,"Hastings","District","District",NA,NA
+28,160,"NZL","New Zealand",6,"Hawke's Bay",28,"Napier","City","City",NA,NA
+29,160,"NZL","New Zealand",6,"Hawke's Bay",29,"Wairoa","District","District",NA,NA
+30,160,"NZL","New Zealand",7,"Manawatu-Wanganui",30,"Horowhenua","District","District",NA,NA
+31,160,"NZL","New Zealand",7,"Manawatu-Wanganui",31,"Manawatu","District","District",NA,NA
+32,160,"NZL","New Zealand",7,"Manawatu-Wanganui",32,"Palmerston North","City","City",NA,NA
+33,160,"NZL","New Zealand",7,"Manawatu-Wanganui",33,"Rangitikei","District","District",NA,NA
+34,160,"NZL","New Zealand",7,"Manawatu-Wanganui",34,"Ruapehu","District","District",NA,NA
+35,160,"NZL","New Zealand",7,"Manawatu-Wanganui",35,"Tararua","District","District",NA,NA
+36,160,"NZL","New Zealand",7,"Manawatu-Wanganui",36,"Wanganui","District","District",NA,NA
+37,160,"NZL","New Zealand",8,"Marlborough",37,"Marlborough","District","District",NA,NA
+38,160,"NZL","New Zealand",9,"Nelson",38,"Nelson","City","City",NA,NA
+39,160,"NZL","New Zealand",9,"Nelson",39,"Tasman","District","District",NA,NA
+40,160,"NZL","New Zealand",10,"Northland",40,"Far North","District","District",NA,NA
+41,160,"NZL","New Zealand",10,"Northland",41,"Kaipara","District","District",NA,NA
+42,160,"NZL","New Zealand",10,"Northland",42,"Kermadec Islands","Unknown","Unknown",NA,NA
+43,160,"NZL","New Zealand",10,"Northland",43,"Whangarei","District","District",NA,NA
+44,160,"NZL","New Zealand",11,"Otago",44,"Antipodes Islands","Unknown","Unknown",NA,NA
+45,160,"NZL","New Zealand",11,"Otago",45,"Central Otago","District","District",NA,NA
+46,160,"NZL","New Zealand",11,"Otago",46,"Clutha","District","District",NA,NA
+47,160,"NZL","New Zealand",11,"Otago",47,"Dunedin","City","City",NA,NA
+48,160,"NZL","New Zealand",11,"Otago",48,"Queenstown-Lakes","District","District",NA,NA
+49,160,"NZL","New Zealand",11,"Otago",49,"Southland","District","District",NA,NA
+50,160,"NZL","New Zealand",11,"Otago",50,"Waitaki","District","District",NA,NA
+51,160,"NZL","New Zealand",12,"Southland",51,"Auckland islands","Unknown","Unknown",NA,NA
+52,160,"NZL","New Zealand",12,"Southland",52,"Campbell Islands","Uknown","Unknown",NA,NA
+53,160,"NZL","New Zealand",12,"Southland",53,"Gore","District","District",NA,NA
+54,160,"NZL","New Zealand",12,"Southland",54,"Invercargill","City","City",NA,NA
+55,160,"NZL","New Zealand",12,"Southland",55,"Southland","District","District",NA,NA
+56,160,"NZL","New Zealand",13,"Taranaki",56,"New Plymouth","District","District",NA,NA
+57,160,"NZL","New Zealand",13,"Taranaki",57,"South Taranaki","District","District",NA,NA
+58,160,"NZL","New Zealand",13,"Taranaki",58,"Stratford","District","District",NA,NA
+59,160,"NZL","New Zealand",14,"Waikato",59,"Franklin","District","District",NA,NA
+60,160,"NZL","New Zealand",14,"Waikato",60,"Hamilton","City","City",NA,NA
+61,160,"NZL","New Zealand",14,"Waikato",61,"Hauraki","District","District",NA,NA
+62,160,"NZL","New Zealand",14,"Waikato",62,"Matamata-Piako","District","District",NA,NA
+63,160,"NZL","New Zealand",14,"Waikato",63,"Otorohanga","District","District",NA,NA
+64,160,"NZL","New Zealand",14,"Waikato",64,"Rotorua","District","District",NA,NA
+65,160,"NZL","New Zealand",14,"Waikato",65,"South Waikato","District","District",NA,NA
+66,160,"NZL","New Zealand",14,"Waikato",66,"Taupo","District","District",NA,NA
+67,160,"NZL","New Zealand",14,"Waikato",67,"Thames-Coromandel","District","District",NA,NA
+68,160,"NZL","New Zealand",14,"Waikato",68,"Waikato","District","District",NA,NA
+69,160,"NZL","New Zealand",14,"Waikato",69,"Waipa","District","District",NA,NA
+70,160,"NZL","New Zealand",14,"Waikato",70,"Waitomo","District","District",NA,NA
+71,160,"NZL","New Zealand",15,"Wellington",71,"Carterton","District","District",NA,NA
+72,160,"NZL","New Zealand",15,"Wellington",72,"Hutt city","City","City",NA,NA
+73,160,"NZL","New Zealand",15,"Wellington",73,"Kapiti Coast","District","District",NA,NA
+74,160,"NZL","New Zealand",15,"Wellington",74,"Masterton","District","District",NA,NA
+75,160,"NZL","New Zealand",15,"Wellington",75,"Porirua","City","City",NA,NA
+76,160,"NZL","New Zealand",15,"Wellington",76,"South Wairarapa","District","District",NA,NA
+77,160,"NZL","New Zealand",15,"Wellington",77,"Upper Hutt","City","City",NA,NA
+78,160,"NZL","New Zealand",15,"Wellington",78,"Wellington","City","City",NA,NA
+79,160,"NZL","New Zealand",16,"West Coast",79,"Buller","District","District",NA,NA
+80,160,"NZL","New Zealand",16,"West Coast",80,"Grey","District","District",NA,NA
+81,160,"NZL","New Zealand",16,"West Coast",81,"Westland","District","District",NA,NA

@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 14:57:30 
+[georeference] 
+nrows= 36 
+ncols= 60 
+xmin= -109.6 
+ymin= -27.3 
+xmax= -109.1 
+ymax= -27 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 20 
+maxvalue= 20 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= CHL2_cov 
+history=  
